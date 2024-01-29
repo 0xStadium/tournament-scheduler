@@ -1,4 +1,4 @@
-# Badminton-Scheduler
+# Tournament Scheduler
 Creates excel/word documents for single round robin badminton tournaments for up to 10 duo teams per court.
 A scheduling algorithm makes the games equally spaced out so that the largest possible number of duos have equal resting times.           
 200+ players compete in these tournaments which are hosted by KBFS America (http://kbfsa.com/).
